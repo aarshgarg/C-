@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    // we can also modify the value of the number with  the use of the pointer
     int a=10;
 
     int *p;

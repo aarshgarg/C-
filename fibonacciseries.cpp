@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-void fib()
+void fib( int n)
 {
     int t1=0;
     int t2=1;
@@ -17,7 +17,7 @@ int main()
 {
     int n;
     cin>>n;
-    fib();
+    fib(n);
     return 0;
 
 }
