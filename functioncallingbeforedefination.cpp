@@ -15,5 +15,5 @@ int main()
 {
     int sum;
     sum=a+b; 
-       cout<<"sum of the number"<<sum;
+       cout<<"sum of the number="<<sum;
 }
