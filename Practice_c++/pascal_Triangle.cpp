@@ -25,3 +25,4 @@ int main()
     }
     return 0;
 }
+// icj function use 0c0 1c0 1c1 2c0 2c1 2c2 3c0 3c1 3c2 3c3 
