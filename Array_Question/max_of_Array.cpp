@@ -17,6 +17,8 @@ int main()
     }
     for(int i=0;i<n;i++)
 {
+    // By using this we can update the value if we traverse an array 
+    // if next element is small it can give previous value
     mx= max(mx,arr[i]);
     cout<<mx<<endl;
 }
