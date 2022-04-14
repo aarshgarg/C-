@@ -24,3 +24,4 @@ int main()
         }
         return 0;
     }
+    // number of the sub array n*(n+1)/2
