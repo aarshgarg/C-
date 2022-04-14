@@ -2,7 +2,7 @@
 using namespace std;
 bool check(int x,int y,int z)
 {
-    int a=max(x,max(y,z));
+    int a=max(x ,max(y,z));
     int b,c;
     if(a==x)
     {
