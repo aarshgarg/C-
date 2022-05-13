@@ -16,7 +16,7 @@ void student::set_roll_number(int n)
 }
 void student ::get_roll_number()
 {
-    cout<<"The roll number is"<<roll_number<<endl;
+    cout<<"The roll number is="<<roll_number<<endl;
 }
 
 class exam : public student
@@ -49,7 +49,7 @@ public:
     {
         get_roll_number();
         get_marks();
-        cout << "Your result is " << (maths + physics) / 2 << "=" << endl;
+        cout << "Your result is =" << (maths + physics) / 2 << "%" << endl;
     }
 };
 
