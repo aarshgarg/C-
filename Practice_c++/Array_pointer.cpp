@@ -33,7 +33,7 @@ int main()
     }
     for(int i=1;i<size;i++)
     {
-        cout<<"Item Number"<<i<<endl;
+        cout<<"Item Number="<<i<<endl;
         ptrTemp->getdata();
         ptrTemp++;
     }
